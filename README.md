@@ -5,7 +5,7 @@ Yes, I am very aware that storing this kind of thing in text files is horribly i
 
 ## How to use:
 I did not intend this to be used by other people, so if you wish to customise it, you'd have to read through a lot of messy code. There is some varying amount of documentation inside.
-1. Download everything into the same folder (EVERYTHING, including todo.txt and todoArchive.txt).
+1. Download everything into the same folder (EVERYTHING, including todo.txt and todoArchive.txt. Or just create two .txt files of the same name, just make sure they're empty initially).
 2. Open your favourite IDE for Python (preferably VSCode or something similar, I used it since I can open the txt files next to the code).
 3. Run the program.
 
